@@ -2,7 +2,7 @@
 
 This is a simple **"Hello world"** done with **Java** programming language.
 
-## Source code
+## Source code repository
 
 This is the source code of the program:
 
